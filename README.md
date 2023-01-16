@@ -9,6 +9,6 @@ The code was run on Linux and tested with MATLAB 2022b.
 
 To run the code, run the ```two_ph_velocity.m``` - this is also where all main modifications should go. The code ```tp_cont.m``` can be ran if the main code stops prematurely and needs to be continued from the last saved point. Other code are functions supporting the simulation that should not require any case-base changes.
 
-This code was validated, however, the code structure is not sophisticated. The user is recommended to change it with care and encouraged to report any issues or bugs. 
+This code was validated, however, the code structure is not sophisticated. The user is recommended to change it with care and encouraged to report any issues or bugs. The code here is one set out of a series of cases, if the user needs something else, reach out and the repository will be updated if possible.
 
 
